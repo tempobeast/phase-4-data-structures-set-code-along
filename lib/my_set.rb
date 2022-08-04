@@ -1,6 +1,6 @@
 class MySet
 
-    attr_accessor: :hash
+    attr_accessor :hash
 
     def initialize(enumerable = [])
         @hash = {}
